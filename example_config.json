@@ -1,0 +1,25 @@
+{
+  "minutes": 120,
+  "include_planned_works": true,
+  "recipients": {
+    "bob@snailmail.com": [
+      {
+        "time": "09:00",
+        "days": ["mon", "tue", "wed", "thu", "fri"],
+        "lines": ["Sunbury", "Pakenham"]
+      },
+      {
+        "time": "16:30",
+        "days": ["mon", "tue", "wed", "thu", "fri"],
+        "lines": ["Glen Waverly"]
+      }
+    ],
+    "alice@snailmail.com": [
+      {
+        "time": "18:00",
+        "days": ["sat","sun"],
+        "lines": ["Lilydale"]
+      }
+    ]
+  }
+}
