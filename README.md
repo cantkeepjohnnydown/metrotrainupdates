@@ -1,6 +1,6 @@
 # Metro Train Updates
 
-Simple app that sends an email update if your configured line is down.
+Simple app for PTV metro train updates that sends an email update if your configured line is down.
 
 ## Quick Start
 
